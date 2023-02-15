@@ -2,7 +2,7 @@
 
 
 
-<img align="left" width="80%" src="https://github-readme-stats.vercel.app/api?username=Rohit7594&show_icons=true&theme=radical">
+<img align="left" width="80%" src="https://github-readme-stats.vercel.app/api?username=manishpaliwal1&show_icons=true&theme=radical">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
